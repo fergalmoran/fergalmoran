@@ -1,5 +1,7 @@
 [![Fergal's github stats](https://github-readme-stats.vercel.app/api?username=fergalmoran&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fergalmoran&theme=vue)
+
 ### Project Status
 
 | Project         | Url                                  | Build Status                                                                                                                                                                                                       |
