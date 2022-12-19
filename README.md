@@ -1,4 +1,4 @@
-# Hello Sailors!
+# Hello, Sailors!
 
 🐘 <a rel="me" href="https://mastodon.fergl.ie/@fergal">Mastodon</a>
 
